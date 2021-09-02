@@ -1,0 +1,46 @@
+#About
+this file is meant to give the dev and you information about the page. Notes, info, you can find it all here. It is in
+.txt format since any device supports it. It loads FAST, and is free of tracking (although it has some metadata.)
+
+#humans.txt
+Used to give information about the persons and technologies used to create this website,
+also see https://humanstxt.org/.
+
+#security.txt
+Used to give pen testers and dev's the option the contact the site owner about any security problems they may have found
+on the website. This file is placed into the '.well-known' folder (also used for verification by google and for
+certificates), as wel as in the root folder of the website.
+
+If you have found any security problem(s), be sure to look up the file and report the problem to the developer.
+
+#IE Internet Explorer support
+This site is NOT build with support for IE in mind (are you still using it?!? LOL). It MAY have some problems running
+on it. Microsoft ended support for IE, it is recommended to use a modern browser instead.
+See https://www.browsehappy.com for guidance.
+
+#canonicial
+Base website link without any parameters such as ?page=home. Search engines will use this link to show in the
+search results.
+
+#Compilers
+This website is compiled with CSSO CSS Optimizer and SASS compiler,
+using Jetbrains WebStorm default file watcher settings. Also credited in the humans.txt file.
+
+#.editorconfig
+This site uses a basic .editorconfig:
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = false
+max_line_length = 120
+tab_width = 4
+
+[*.scss]
+indent_size = 2
+
+See https://editorconfig.org/.

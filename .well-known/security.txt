@@ -1,0 +1,4 @@
+Contact: mailto:brandinos.dh@pm.me
+Expires: 2022-01-01T00:00:00.000Z
+Preferred-Languages: en,dutch
+Canonical: https://example.nl/security.txt

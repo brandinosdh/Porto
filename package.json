@@ -1,0 +1,22 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch css:css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandinosdh/Portofolio.git"
+  },
+  "author": "brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandinosdh/Portofolio/issues"
+  },
+  "homepage": "https://github.com/brandinosdh/Portofolio#readme",
+  "devDependencies": {
+    "sass": "^1.39.0"
+  }
+}

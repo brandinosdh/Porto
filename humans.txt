@@ -1,0 +1,17 @@
+# https://www.humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brandon van Kasteel -- Developer
+
+# THANKS
+
+    https://www.smeders.nl/
+    https://github.com/h5bp/html5-boilerplate - for .htaccess file
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JS
+    Apache Server Configs, HTML5 Boilerplate
+    CSSO CSS Optimizer, SASS compiler, Jetbrains WebStorm, UglifyJS
